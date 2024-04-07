@@ -1,4 +1,4 @@
-4th computer engineering student at Birzeit University.
+
 
 <!---
 Masa-Itmazi/Masa-Itmazi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
