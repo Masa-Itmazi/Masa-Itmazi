@@ -49,6 +49,5 @@
 ###
 
 <br clear="both">
-![Snake animation](https://raw.githubusercontent.com/masa-itmazi/masa-itmazi/output/snake.svg)
 
 ###
