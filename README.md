@@ -50,6 +50,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/masa-itmazi/masa-itmazi/output/snake.svg" alt="Snake animation" />
-
+![Snake animation](https://github.com/masa-itmazi/masa-itmazi/blob/output/snake.svg)
 ###
